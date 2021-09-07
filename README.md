@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 💬 Currently pursuing my Master's in Computer Science.
+- 💬 Currently pursuing my Master's in Computer Science from NSIT, Delhi.
 
 - 📫 Reach out to me - **ankitgv.kvatgore@gmail.com**
 
