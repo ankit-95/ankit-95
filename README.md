@@ -11,7 +11,7 @@
 
 - 💬 Currently pursuing my Master's in Computer Science from NSIT, Delhi.
 
-- 📫 Reach out to me - **ankitgv.kvatgore@gmail.com**
+- 📫 Reach out to me - **ankitgv.kvtagore@gmail.com**
 
 - 🎯 Motto : **Code and contribute until the goal is reached**
 
