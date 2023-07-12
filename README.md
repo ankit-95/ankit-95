@@ -5,7 +5,7 @@
 
 ### [Connect with me 💬](https://bio.link/ankit95)
 
-- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2018. 
+- 🧑🏻‍💻 SDE-1 @Ciena | Grad of 2018. 
 
 - ✌🏻 Apart from Coding **I love drawing**
 
