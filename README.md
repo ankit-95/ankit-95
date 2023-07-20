@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-95" alt="ankit-95" /> </p>
 
-### [Connect with me 💬](https://bio.link/ankit95)
+### [Connect with me  💬](https://bio.link/ankit95)
 
 - 🧑🏻‍💻 SDE-1 @Ciena | M.Tech CS Post-Grad of 2023. 
 
