@@ -5,7 +5,7 @@
 
 ### [Connect with me  💬](https://bio.link/ankit95)
 
-- 🧑🏻‍💻 SDE-1 @Ciena | M.Tech CS Post-Grad of 2023. 
+- 🧑🏻‍💻 SDE-1 @Ciena | Post-Grad in M.Tech(CSE) 2023 Batch. 
 
 - ✌🏻 Apart from Coding **I love drawing**
 
