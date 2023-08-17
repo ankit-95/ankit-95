@@ -9,9 +9,9 @@
 
 - ✌🏻 Apart from Coding **I love drawing**
 
-- 💬 Ask me about **FullStack Development**
+- 💬 Ask me about **Full Stack Development**
 
-- 💬 Currently pursuing my Master's in Computer Science from NSIT, Delhi.
+- 💬 Pursued my Master's in Computer Science Engineering from NSUT, Delhi.
 
 - 📫 Reach out to me - **ankitgv.kvtagore@gmail.com / ankitgupta95@outlook.com**
 
