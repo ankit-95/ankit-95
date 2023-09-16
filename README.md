@@ -5,7 +5,7 @@
 
 ### [Connect with me  💬](https://bio.link/ankit95)
 
-- 🧑🏻‍💻 SDE-1 @Ciena | Post-Grad in M.Tech (CSE)'23 Batch. 
+- 🧑🏻‍💻 SDE-1 @Ciena | **Topper & Gold Medalist** M.Tech NSIT CSE'23 🏅
 
 - ✌🏻 Apart from Coding **I love drawing**
 
