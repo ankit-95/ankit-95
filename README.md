@@ -15,7 +15,7 @@
 
 - 📫 Reach out to me - **ankitgv.kvtagore@gmail.com / ankitgupta95@outlook.com**
 
-- 🎯 Motto : **Code and contribute until the goal is reached**
+- 🎯 Motto : **Code and Contribute until the goal is reached**
 
 ### Skills
 
