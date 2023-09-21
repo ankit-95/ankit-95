@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ankit Gupta.</h1>
 <h3 align="center">A tech enthusiast who loves to explore new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-95" alt="ankit-95" /> </p>
