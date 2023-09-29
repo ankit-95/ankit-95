@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 💬 Pursued my Master's in Computer Science Engineering from NSUT, Delhi.
+- 💬 Pursued my Master of Technology in Computer Science Engineering from NSUT, Delhi.
 
 - 📫 Reach out to me - **ankitgv.kvtagore@gmail.com / ankitgupta95@outlook.com**
 
